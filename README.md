@@ -2,7 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
-| [k1LoW/octocov](https://github.com/k1LoW/octocov) | 56.3% | 1:0.8 | - | ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg)```</details> |
+| [k1LoW/octocov](https://github.com/k1LoW/octocov) | 56.8% | 1:0.9 | - | ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg)```</details> |
 
 ---
 
